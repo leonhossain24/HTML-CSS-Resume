@@ -1,1 +1,11 @@
 /* Your CSS styles go here */
+title{
+    background-color: red;
+}
+
+h3{
+    color: red;
+    font-family: 'serif';
+}
+
+p { font: bold italic large serif }
