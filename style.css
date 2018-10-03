@@ -8,6 +8,7 @@ h3{
     font-family: 'serif';
 }
 
+
 p { font: bold italic large serif }
 
 @media (max-width:500px)
@@ -17,3 +18,18 @@ p { font: bold italic large serif }
         margin:auto;
     }
 }
+@media (max-width:700px)
+{
+    body {
+        text-align: center;
+        margin:auto;
+    }
+}
+@media (max-width:500px)
+{
+    table {
+        text-align: center;
+        margin:auto;
+    }
+}
+
